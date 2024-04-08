@@ -1,0 +1,7 @@
+C:\Users\me\source\repos\akelon5\akelon5\bin\Debug\akelon5.exe.config
+C:\Users\me\source\repos\akelon5\akelon5\bin\Debug\akelon5.exe
+C:\Users\me\source\repos\akelon5\akelon5\bin\Debug\akelon5.pdb
+C:\Users\me\source\repos\akelon5\akelon5\obj\Debug\akelon5.csproj.AssemblyReference.cache
+C:\Users\me\source\repos\akelon5\akelon5\obj\Debug\akelon5.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\akelon5\akelon5\obj\Debug\akelon5.exe
+C:\Users\me\source\repos\akelon5\akelon5\obj\Debug\akelon5.pdb
